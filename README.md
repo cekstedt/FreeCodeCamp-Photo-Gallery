@@ -1,4 +1,4 @@
-# FreeCodeCamp - Learn CSS Flexbox by Building a Photo Gallery
+# FreeCodeCamp - Building a Photo Gallery
 
 This is a solution to the [Learn CSS Flexbox by Building a Photo Gallery](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/) course on [FreeCodeCamp](https://www.freecodecamp.org/).
 
